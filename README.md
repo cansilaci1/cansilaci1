@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**cansilaci1/cansilaci1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +9,19 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Merhaba, Ben Can 👋
+
+
+
+## Kullandığım Diller ve Araçlar
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cansilaci1&layout=compact)
+
+
+
+Benimle şu yollarla iletişime geçebilirsiniz:
+- [LinkedIn](https://www.linkedin.com/in/cansilaci/)
+- [Twitter](https://medium.com/@mcsilaci)
+- 
+## Profil Ziyaretçi Sayısı
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
