@@ -10,6 +10,6 @@
 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/cansilaci/)
 - [Medium](https://medium.com/@mcsilaci)
-- 
+
 ## Profil Ziyaretçi Sayısı
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
