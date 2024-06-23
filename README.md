@@ -1,7 +1,6 @@
 # Merhaba, Ben Can 👋
 
-  Aktif olarak Android uygulama geliştiriyorum. Kodlayarak öğreniyorum, öğrendikçe kodluyorum.
-  
+I'm actively developing Android apps. I am learning while i'm coding, also coding while i'm learning. :)
 
 ## Kullandığım Diller ve Araçlar
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cansilaci1&layout=compact)
