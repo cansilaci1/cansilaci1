@@ -2,7 +2,7 @@
 
 I'm actively developing Android apps. I am learning while i'm coding, also coding while i'm learning. :)
 
-## Tools that i used mostly
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cansilaci1&layout=compact)
 
 
