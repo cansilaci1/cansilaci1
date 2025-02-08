@@ -1,6 +1,6 @@
 # Hi, I'm Can 👋
 
-I'm actively developing Android apps. I am learning while i'm coding, also coding while i'm learning. :)
+I'm actively developing Mobile apps. I am learning while i'm coding, also coding while i'm learning. :)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cansilaci1&layout=compact)
