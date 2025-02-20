@@ -9,7 +9,7 @@ I'm actively developing Mobile apps. I am learning while i'm coding, also coding
 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/cansilaci/)
 - [Medium](https://medium.com/@mcsilaci)
-- [Mail](mcsilaci@gmail.com)
+- Mail: mcsilaci@gmail.com
 
 
 
